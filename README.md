@@ -1,2 +1,1 @@
-# miniature-succotash
-arcl0160 things
+# ARCL0160 Assignment 2 - Webscraping Artefact Data
